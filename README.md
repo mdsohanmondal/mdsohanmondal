@@ -15,9 +15,9 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mesohan.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdsohanmondal)
 
 </div>
 
@@ -90,8 +90,9 @@ currently:
 ## Learning Roadmap (2025 → 2026)
 
 ```
-Full Stack        ██████████████████░░  90% ✓
-TypeScript        ████████████████░░░░ 80% ✓
+Full Stack        ███████████████░░░░░  78% ✓
+TypeScript
+████████████░░░░░░░░ 55% ✓
 Next.js (Adv.)    ██████████████░░░░░░   70% ←
 Data Science      ███████████░░░░░░░░░   55% ←
 Machine Learning  ███████░░░░░░░░░░░░░   35% ←
@@ -134,8 +135,8 @@ const sohan = {
 I'm always open to discussing interesting problems, collaborations, or opportunities.
 
 📬 **Email** → mdsohanmondal093@gmail.com  
-💼 **LinkedIn** → [linkedin.com/in/YOUR_USERNAME](https://www.linkedin.com/in/sohan-mondal093/)  
-🌐 **Portfolio** → [your-portfolio.com](https://your-portfolio.com)
+💼 **LinkedIn** → [linkedin.com/in/Md Sohan Mondal](https://www.linkedin.com/in/sohan-mondal093/)  
+🌐 **Portfolio** → [your-portfolio.com](https://mesohan.vercel.app/)
 
 ---
 
