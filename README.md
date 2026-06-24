@@ -90,8 +90,8 @@ currently:
 ## Learning Roadmap (2025 → 2026)
 
 ```
-Full Stack        ███████████████░░░░░  78% ✓
-TypeScript        ████████████░░░░░░░░ 55% ✓
+Full Stack        ███████████████░░░░░   78% ✓
+TypeScript        ████████████░░░░░░░░   55% ✓
 Next.js (Adv.)    ██████████████░░░░░░   70% ←
 Data Science      ███████████░░░░░░░░░   55% ←
 Machine Learning  ███████░░░░░░░░░░░░░   35% ←
