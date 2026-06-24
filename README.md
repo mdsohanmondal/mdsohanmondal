@@ -91,8 +91,7 @@ currently:
 
 ```
 Full Stack        ███████████████░░░░░  78% ✓
-TypeScript
-████████████░░░░░░░░ 55% ✓
+TypeScript        ████████████░░░░░░░░ 55% ✓
 Next.js (Adv.)    ██████████████░░░░░░   70% ←
 Data Science      ███████████░░░░░░░░░   55% ←
 Machine Learning  ███████░░░░░░░░░░░░░   35% ←
